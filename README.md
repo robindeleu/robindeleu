@@ -31,3 +31,4 @@
 ### Editors
 
 [![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=4FA1EF&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![IntelliJ IDEA](https://img.shields.io/static/v1?label=&message=IntelliJ%20IDEA&color=000000&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
